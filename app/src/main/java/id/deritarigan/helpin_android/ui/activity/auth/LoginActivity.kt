@@ -2,8 +2,8 @@ package id.deritarigan.helpin_android.ui.activity.auth
 
 import android.content.Intent
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
 import android.view.View
+import androidx.appcompat.app.AppCompatActivity
 import id.deritarigan.helpin_android.R
 import id.deritarigan.helpin_android.ui.activity.home.HomeActivity
 import kotlinx.android.synthetic.main.partial_login.*
