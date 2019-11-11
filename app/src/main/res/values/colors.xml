@@ -2,7 +2,9 @@
 <resources>
     <color name="colorPrimary">#c70729</color>
     <color name="colorPrimaryDark">#800000</color>
-    <color name="colorAccent">#c70729</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="color_maroon">#ab000d</color>
+    <color name="color_maroon_darker">#7f0000</color>
     <color name="color_white">#FFFFFF</color>
     <color name="color_red">#EE5353</color>
     <color name="color_light_grey">#C8D6E5</color>
